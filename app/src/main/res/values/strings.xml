@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Cook Book</string>
+
+    <string name="ingredients">Ingredients</string>
+
+    <string name="barszcz_ingred">
+      "300g beetroot, peeled/n
+      50g butter/n
+      1 small onion, 1 small carrot, 1 stick of celery, 1 small leek:/n
+      all peeled where necessary and cut into small dice or rings/n
+      2 grains allspice/n
+      ½ bay leaf/n
+      1.5l gelatinous beef stock/n
+      2 medium floury potatoes, eg Maris Piper, peeled and cut into small dice/n
+      ½ small cabbage, shredded /n
+     4 cloves garlic, peeled and crushed /n
+     2 tbsp cider vinegar /n
+     1 tsp sugar /n
+     ½ tsp ground black pepper /n
+     Sour cream and fresh dill, to serve (preferably Polish sour cream, which has a richer flavour)/n "
+    </string>
+    <string name="barszcz">
+
+       " Cut ¾ of the peeled beetroot into small dice /n(you may want to wear rubber gloves to do this) and set the rest aside./n
+        Melt the butter in a large pan, /n
+        and then soften the onion over a gentle heat for 5 minutes./n
+      2. Add the carrot, leek, celery, diced beetroot, allspice and bay leaf and stir well to coat with butter. /n
+        Cook for another 10 minutes, adding a little stock if the vegetables begin to look dry./n
+        Meanwhile, grate the remaining beetroot./n
+
+      3. Pour in the rest of the stock and the potatoes and simmer for 15 minutes, then add the cabbage, garlic and grated beetroot./n
+         Cook until all the vegetables are tender (about 10 minutes)./n
+
+      4. Add the vinegar, sugar, pepper and a pinch of salt and taste. /n
+         Add a little more of any of these if necessary, /n
+         then serve with a dollop of sour cream, a sprig of dill, and some Polish bread on the side. /n "
+   </string>
+
+    <string name="bigos_ingred">
+        "1/2 medium cabbage;/n
+        4 cups of sauerkraut;/n
+        1 can tomato paste;/n
+        1/2 lb bacon sliced;/n
+        1 lb pork diced (any parts that can be sautéed is good);/n
+        1 lb Kielbasa sausage sliced /n
+        (optionally substitute with a quality sausage from your butcher);/n
+        1 large onion diced;/n
+        2 cloves garlic minced;/n
+        1 bay leaf;/n
+        Optional salt and pepper to taste;/n"
+    </string>
+
+    <string name="bigos">
+   " Cut your washed cabbage in thin slices and boil until tender in a pot.
+    Boil the sauerkraut in another pot in about 2 cups of water. Strain and keep the sour water aside.
+    Sauté your diced pork in a pan with some cooking oil (lard, coconut oil or butter are good), then set aside.
+    Sauté the bacon and sausage with the onion and garlic.
+    In a large pot, combine the cooked cabbage, sauerkraut, sour water, tomato paste, spices and your cooked meats, onion and garlic.
+    Let simmer for about 1 hour.
+    Enjoy with your family and friends!"
+    </string>
+
+
+    <string ingred="koperek_ingred">
+        "1 large bunch of dill/n
+        0.5kg of soup vegetables /n
+        (such as: parsley, celery, leek, carrots)/n
+        1 medium onion /n
+        200 ml sour cream or yoghurt /n
+        30 ounces of veal ribs or other meat with bone /n
+        1 tablespoon of flour /n
+        1 bay leaf /n
+        salt, pepper /n"
+    </string>
+
+    <string ingred="koperek">
+
+       " Prepare a veal stock with 2 litres of water. /n
+        To the pot add 1 small onion during cooking the broth. /n
+        Add greens and then rest of vegetables. /n
+        If you want to have full-vegetable version of this soup, throw chopped vegetables after 20 minutes of meat cooking. /n
+        If you want, however, to get rid of it and serve a clean soup, as it is usually prefered, /n
+        throw all vegetables at the beginning. /n
+       Add salt to taste. Now, cook the soup about 1 hour - until meat and vegetables will be soft. /n
+       When broth is ready it is time for our dill. /n
+        Cut very finely half of the bundle (the one closer to roots). /n
+        Than fry it for 1-2 minutes on a hot pan and throw into the soup. /n
+        Now, take the pot out from fire and remove meat. /n
+        Mix cream with flour if you like a bit thicker soup. /n
+        Pour few tablespoons of soup to the cream /n
+        (so the cream does not coagulate after adding it to the hot soup). /n
+        Then mix it all and pour to the pot with a dill soup. /n
+       Slowly heat all together for the last time. Leave it for a moment to let all flavors merge. /n
+       Now chop all remaining dill and throw directly into the pot. Mix the whole. /n
+       Prepare batter dumplings of hard boiled eggs to be served with you dill soup. /n "
+    </string>
+    <string name="title_activity_second">Choose your meal</string>
+    <string name="large_text">
+
+    </string>
+    <string name="action_settings">Settings</string>
+
+
+</resources>
